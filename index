@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Pages 테스트</title>
+</head>
+<body>
+    <h1>GitHub Pages가 정상적으로 작동합니다!</h1>
+    <p><a href="bicyclelock/bicyclelock.html">자전거 잠금장치 페이지로 이동</a></p>
+</body>
+</html>
